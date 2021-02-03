@@ -1,0 +1,71 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-02-01T08:38:51+05:30
+
+====== 4. Impossibility, closed formness and attitude ======
+Created Monday 01 February 2021
+
+=== Questions ===
+I have a lot of questions which I'm uncomfortable about:
+1. Will AI succeed, i.e is it possible to that level?
+2. How did microcontrollers and computers become possible?
+3. If AI is not possible, then we'd have a class of problems that are not solvable algorithmically, or have a closed-form solution? What does this mean
+4. If we don't try, how can we ever know?
+5. Is science and tech self-propelling
+=== Answers ===
+1. **There are two arguments here**:
+	a. Our brains are, afterall, biological. This has been proven to a high degree of accuracy. If this is the case then AI may be possible.
+	b. If this is not actually the case, then there must exists problems that are not solvable, however hard we try or how ingenius our solutions are. Is this possibility pessimism? - I don't think so, lots of problems are impossible, viz:
+		1. Heisenberg's Uncertainity principle prevents precise measurements beyond a scale.
+		2. People have been obsessed about Perpertual Motion Machines - but this is just impossible.
+		3. Kurt Godel's incompleteness theorem did hurt a lot of mathematicians
+		4. Turing's halting problem is a problem which no machine can ever solve
+	Fortunately:
+		1. Uncertainity principle paves the way for quantum computers(faster than classical ones) and counter-surveillance. It is not completely random either.
+		2. Conservation of energy actually gives us equations which make the systems solvable. Newton took it for granted in his //Principia//
+		3. Godel's Incompleteness theorem paved the way for modern Computer Science - This had a huge impact
+		4. Incompletenss theorem and Uncertainity principle together hint that AI may be similar to humans, which is good. Also it rules out the impossibility of AI because we now accept that it need not be complete.
+	c. Ethics - This is a tricky one. We humans seem to be inherently good, and this stuck with us when we evolved naturally. A true AGI will also be good. So AI fundamentally, according to me is ethical(assuming ethics is natural, which seems to be the case). The actual problem is that humans can make "evil" AI, kind of brainwashing. We only need to minimize such destructive efforts.
+	Obviously, we cannot start with impossibility. These results are facts, and not whims or speculations, so we have to accept them.
+	And it is comforting that despite so many odds, viz Netwonian physics being replaced by Relativity, we can still use both and we also have a more correct theory.
+2. **Microcontrollers and computers** were realized by Pascal, Liebnitz, Babbage, Turing, Zuse, Hollerith etc. This is not so difficult if you ask electrical engineers, infact we did use seemingly invariant properties of nature all the time - solar calendar, lunar calendar, gravity for water-clocks(automata in Baghdad), buoyant principle for determining purity. All of science actually stems from these possibilities which seem unlikely at first. **This is due to our minds wanting an 'agent'**. But this is not plausible as agents will need to be composed of non-agent material, which //is// the case so far with science.
+3. **Computability and closed-formness**
+	It is well known that the reason behind Galois Group theory is due to the fact that polynomials of degree 5 or more don't have a closed form solution for finding the roots. But did math stop,no:
+	* In fact we have many algorithms which compute such roots.
+	* Incomplete algorithms make applications practical, e.g TSP - we need to assess completeness probabilistically
+	* Compiler design handles general programming languages, which is a feat in itself.
+	* Inexistence of closed-form solutions has contributed to many developments of number theory, which are critical in cryptography, numerical computing, algorithm design which are an indispensable part of our society now.
+	Note: It is convenient to have closed-from solutions and we should look for them. If they don't exist, we design algorithms. It is simple.
+4. **If we don't try, how can we ever know?** 
+	//It always seems impossible until it's done// - Nelson Mandela
+	An unneedy solution:
+	* Curiosity
+	* Testing the limits of our abilities
+	* Solving problems
+	* Making life better
+	* Making societal processes efficient in order to maximize freedom, equality and democracy. - Indian RTI Act could have ben termed "impractical" to implement. But it is a piece of cake because of computers and communication tech.
+	* It makes interesting careers
+	A paranoid solution:
+	* Resources are effectively depleting, we need efficient systems
+	* This is a bit sensitive: We need tech to keep dictators and criminals at bay. MAD policy during WW2
+	* Just think if we accepted unchecked notions of society: There would be no guarantee that we'd have a constitution and remedies within it, which changed the face of India, and of many countries.
+	
+	A scary yet exhilarating reality:
+	I had a perception that people thought scientists and other intellectual policy makers were insensitive and unempathetic. Evidence for this exists in the form of eugenics movement and failed justifications of War crimes at Nuremberg trials. Racism and its propulsion as a scientific movement.
+	But in recent times, we have seen the participation of people of all races in the National Human Genome Project. I personally think it's okay for some marginalized communities to cringe over such projects. I hope I'm wrong, and I'm wrong indeed. The NHGP paved the way for equality and made us more aware of who we actually are as a species. Also laws such as HIPAA are a strong indicator that scientists and policy-makers actually care for societal matters. Things such as the 4th Amendment, surveillance and freedom are core principles of a significant number of companies.
+	
+	To conclude: It is better to do science than to get stuck with the situation, because atleast statistically, society has gained a lot from studying nature, which includes us. Social science has changed the way we approach societal issues.
+5. **Is science and tech self-propelling:**
+	No.
+	It would seem that growth is natural in science. But it is not the case, scientific theories(or any theory in general) seem to have some potential barrier before they can be realized and done justice with. This happens all the time to physicists, when a theory starts giving absurd answers for simple phenoema. And physicists create new and ingenius way of solving this. Example - [[https://en.wikipedia.org/wiki/Renormalization|renormalization]] of quantum mechanics.
+	
+	This means that a lot of hard work is required to do science and tech.
+	But only a few people are enough, right? - Tech and science are scalable, but they are fundamentally a way of thinking and doing this, and it is very difficult(atleast until now) to preserve or pass down exact understandings.
+	In fact, we can forget why something simple happened they way it did. And forgetting has many disadvantages:
+	* Loss of growth
+	* Confusion for what the thing actually was.
+	* They become potential pseudoscience which just multiplies.
+	* Loss of curiosity and drive due to existence of things, which hampers growth. As evident in most ancient civilizations, where people forgot how they did the great things they did, it became part of 'heritage' and was not consciously understood by the people.
+	This means we need many people. Things like Linux, gcc, openBSD, projects at Bell labs, NASA, parliaments are possible only due to collaboration of many people.
+	So technology(and similarly science) actually **degrades** if not worked upon.
+	See [[https://www.youtube.com/watch?v=X6hBfv_ylEY|this]]
