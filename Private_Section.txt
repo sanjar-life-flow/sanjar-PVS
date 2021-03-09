@@ -11,6 +11,7 @@ This directory contains the vault. And [[+Private Viewer]] is the viewer. Go the
 
 Rules:
 * Never mention the link in public pages.
+* All Version control must be made inside Private Viewer.
 
 Instruction:
 * To mount, go open the terminal in this page's directory and run:

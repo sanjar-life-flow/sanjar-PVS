@@ -1,0 +1,53 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-02-27T12:52:03+05:30
+
+====== 20. Is automation a bad thing ======
+Created Saturday 27 February 2021
+
+* I love computer science
+* It is difficult
+
+=== There are some arguments that make my head spin and cause a hell lot of anxiety ===
+* AI wishes to undermine man - I don't know how to answer this. But AI is a great subject.
+* Automation takes away jobs - This seems true, but is experimentally good. In the long run, automation does take away jobs.
+* You have a malintent to replace people - This is wrong. I care a great deal about people.
+
+=== I have no moral obligation to provide for anyone, in terms of jobs ===
+After thinking a lot about what I'm doing. I reached at an important idea: "I'm not responsible to provide for anyone". This idea is the soul of freedom, because there are a hell lot of false things which can be banned for the "collective good of the society". I don't agree to this, it doesn't feel natural. In fact, it is one of the things that I feel deeply about, without any shame. Automating stuff → people losing jobs may be true, but I cannot be held responsible for this. In fact, this kind of thinking will only increase poverty. Reason: We have invented a new thing with value v2, which is greater than v1(which is the norm). Using v1 now amounts to neglecting value, in fact, we are wasting resources to do stuff that doesn't have any real value. Such a society can never progress. I don't want to go into the paranoid reasons like "enemies getting technologically better", "epidemics might happen" etc. Because these reasons are also a way of saying that we should pursue science and tech just because of some situation. This demotivates me, instead of motivating me.
+
+I love solving problems and would love to do a business, but only if it has some value. And value is precursor to wealth. Only things which have value are sold. Doing a business with stuff which has no value is like sitting on a ticking time bomb, it is not sustainable. In fact it only increases poverty: I will not be able to afford a good education for my children. This poverty and helplessness can potentially(I'll be glad if this is false) be a cause for them to study hastily without proper attention. They will be poor, and the cycle will continue.
+
+So anyone giving jobs for stuff that has no value is actually the criminal, not the person taking the job.
+
+Rate of obsolescence is at an all time high, and will only grow.
+
+Systems like democracy and RTI(Right to Information Act, India) are possible only if we have technology.
+* The US had a comical situation back in the 19th century. The law required a census to be conducted every 10 years, but it took 8 years for a census report to be developed. This is sick. 
+* Popuations grow exponentially and not linearly, and saying no to CS is a death wish. __''PARANOID reason''__
+
+=== Deliberation not force ===
+I personally want to help people and believe that all of us are capable of achieving anything we can conceive. The only way to do this is by spreading knowledge and giving the seeds of growth to people, not handing out cooked meals.
+
+=== A sad coincidence ===
+* Tech like supercomputers/AI are difficult to study.
+* Having a wrong value(need has to be proved) will just fail here.
+* It is very easy to give up on thinking.
+* Being sad or hopeless kills the body from the inside.
+
+=== Selfish reasons ===
+* I hate standing at banks, railway counter etc. I love it that we can book tickets from home.
+* I love that I can collaborate, know and learn with anyone anywhere.
+* I love that we can create something from thin air through code.
+Note: These reasons are universal, so they may potentially be a thing.
+
+=== Why this affects me ===
+* Not thinking clearly is not an option for me
+* I hate it when the solution space "collapses" as anything is labelled "moral".
+* I would be a great waste if I couldn't be happy in my life.
+
+=== Conclusion ===
+* I will not worry that CS will make our lives miserable.
+* I shall cherish the fact that CS made our lives easier.
+* I shall follow my heart and ambition, and use my perception filter.
+* I shall be happy.

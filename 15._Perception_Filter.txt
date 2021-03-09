@@ -12,10 +12,10 @@ Created Thursday 18 February 2021
 
 === Context ===
 * I lost confidence as a 16 yr old, even though I was pretty good at studies, enjoyed sports and had lots of hobbies. This was because some stupid people wanted to sell their ideas, for which they made me believe that my conscience was bad.
-* At 23, I realized I made a huge mistake by listening to these people. So what did I do, I collected data and made this algorithm.
-* I learnt during this that people are gullibility and malice are not necessarily disjoint properties. 
+* At 23, I realized I made a huge mistake by listening to these people. So I'm collecting data and making this algorithm.
+* I learnt during this period that people are being gullible and malice are not necessarily disjoint properties. 
 * But it is impossible for me to live while hating people, it is just a lot of cognitive load. So I made the algorithm, i.e I mechanized the process of detachment by delegating the task of staying away from them using this algorithm.
-* This was I'll train myself to forget their ideas while still being happy. **I want to keep my good intentions intact.**
+* This way, I'll train myself to forget their ideas while still being happy. **I want to keep my good intentions intact.**
 {{./pasted_image.png?href=.%2Fmalice_effect.drawio&width=1200}}
 //**Forgive your enemies, but never forget their names. - John F. Kennedy**//
 JFK on memoization😎️
@@ -25,6 +25,7 @@ JFK on memoization😎️
 	1. Block false information - factually false.
 	2. Block difficult to test wrong information - like ability, freedom and other things I acquired due to my cultural capital.
 	3. It will filter dangerous facts - incomplete knowledge.
+
 === Pros of the device ===
 * It will clear out false facts.
 * It will clear out demotivating facts which are sold as 'hard truths'.
@@ -47,7 +48,7 @@ JFK on memoization😎️
 === Algorithm ===
 * Gather information which is likely to match the 'Life Plan'.
 Steps:
-	1. Run a basic syntax scan for spelling mistakes and other stuff → The person speaking here may use wrong grammar, even if he/she knows what they are talking about. This information can be ignored fully.
+	1. Run a basic syntax scan for spelling mistakes and other stuff → The person speaking here may use wrong grammar, even if he/she knows what they are talking about. This information can be ignored fully, because the information is prone to be ambiguous.
 	2. Run basic semantic check for malice - find out keywords that suggest that the conveyer is trying to fool the audience. If malice is discovered, continue only if the information is likely to affect the real world within a significant time and produce big effects.
 		a. It may use words like "us", "they" or "your" for established protocols and facts.
 		b. Chuck out information from unscientific/populist sources. This is because the people are less likely have judgemental skills.
