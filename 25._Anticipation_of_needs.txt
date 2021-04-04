@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-04-03T07:45:33+05:30
+
+====== 25. Anticipation of needs ======
+Created Saturday 03 April 2021
+
+Anticipation and Impatience.
+{{./pasted_image.png?href=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython%2Flecture%2FhpowG%2F1-1-why-program}}
+This is very good, because our Impatience can help the world.
+Our impatience is not unique, highly possible.
+
+Motivation for devs - build software for people. But only if you like it.
+
+=== It's good to be impatient from an engineering kind of way, it drives innovation. ===
+Be patient personally. Anger is OK.
