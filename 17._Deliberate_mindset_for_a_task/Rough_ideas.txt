@@ -18,4 +18,9 @@ I've come across many disciplines which are amazing, and useful. But I have been
 == Realizing that we make "knowledge" ==
 * I was accustomed to obeying commands from parents. I was programmed to think it //is// "right", and will be. Being independent was something of a taboo. I got over this because I was stubborn and alone.
 * Similarly, people making rules for themselves seemed risky. I got kicked in the ass by religious and realized I'm the best person for myself. I learnt about democracy and learnt that it was not only pratical, it was needed very badly.
-* I sometimes think
+=== Why do this? ===
+I have the following fears:
+1. Tech and math won't work out. - Irrational
+2. I deem things as useless - like critical thinking, social science, which is my default thinking mode. This really causes a lot of discomfort - because the effects on the real world are so amazing.
+3. I will not be able to make a living - this destroys my curiosity and intellectual playfullness. Makes the thing boring.
+4. What I do is not exiting/disruptive - this a good criteria, but is shouldn't be external. I understand I am being foolish - things like math, science, computer science, AI were done at a time when computers were absent or not that powerful. But we had confidence - we even used human computers to do stuff. I refuse to believe that only a handful of people can recognize the importance these fields. This would be utterly wasteful and boring, in fact depressing.
