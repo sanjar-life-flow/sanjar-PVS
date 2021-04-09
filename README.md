@@ -4,5 +4,6 @@ Examples:
 1. Thinking
 2. Behavior
 3. Social Equality
-4, My perception filters
+4. My perception filters
+
 Some things sound like rants, but trust me, I don't won't write if I'm angry or disoriented.
