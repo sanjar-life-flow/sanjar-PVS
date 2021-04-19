@@ -20,7 +20,7 @@ This "thinking" exposed a lot of toxic assumptions in me:
 5. **There's less** **focus(Fear of forking)** - Yes, this is a splitting of a community, and is a nice to have option. [[./Paper 21 - Forks impacts and motivations in free and open source projects.pdf|See this]]
 
 === What to do now? ===
-Well, it would be great if we can simply remove such thoughts. The simplest criteria in place is using the O clause of the [[24. HRF - three params|HRF]]. It increases learning in a good way.
+Well, it would be great if we can simply remove such thoughts. The simplest criteria in place is using the R clause of the [[24. HRF - three params|HRF]]. It increases learning in a good way.
 
 === Ambition - how is this related? ===
 Well the whole problem is simply - non-participation. It can be due to low confidence, fear, social imposition of ideas. Not being ambitious leads to non-participation, which is simply a recipie for poverty and pain. Simply said, ambition is a necessity for success in anything.

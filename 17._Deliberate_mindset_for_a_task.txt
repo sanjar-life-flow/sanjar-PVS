@@ -12,7 +12,7 @@ Note: We are creating a per-task mindset here, and we can be fooled and bad thin
 
 === What this doesn't aim for ===
 * Create justifications based on present needs, it makes a thing boring.
-* This method should fail for provably bad/destructive ideas - e.g. gene
+* This method should fail for provably bad/destructive ideas - e.g. genetic discrimination.
 * To create justifications based on what an opponent is doing. Example - to study computers because the neigboring country is doing so.
 
 === What this aims for ===

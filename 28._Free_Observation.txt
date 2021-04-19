@@ -24,7 +24,7 @@ Rigor:
 		* There are "good" things which are very stupid inside, I should'nt take this thing in.
 		* I don't want to be dependent on someone.
 Getting around the cons:
-* Use your extended knowledge base to ignore bad things and take good things
+* Use your extended knowledge base to ignore bad things and take good things.
 * Don't get attached to the ideology or other non-frank stuff. Analyze what they are saying and note good ideas.
 * Always remember that you can be fooled, and people may fool or be fooled. Everyone can make mistakes. Information on the web can be heavily biased.
 
@@ -33,7 +33,7 @@ Note: I do with every source of information, using the [[15. Perception Filter]]
 === Why am I doing this ===
 * Others experiences are a form of communication.
 * Any remaining "otherness" is reduced significantly.
-* It increases empathy. 
+* It increases empathy.
 * Helps in forming a working and happy worldview.
 * It reinforces that params are not critiera. It's a good thing they can be used as identifiers.
 * It makes it easier for me: people have encountered problems that I have before.
