@@ -40,7 +40,12 @@ Now, as we are working everyday - we are getting closer to //D//, and not away f
 2. Do things in a constrained manner - encroaches freedom of inquiry. Also, there's no guarantee when //D// will be reached.
 3. Do things in an unconstrained, fast way - this is the only option. This is exiting, and if //D// hits, we'll have the most amount of knowledge to avert it.
 
-Note: D may be known, or unknown.
+Note: 
+* D may be known, or unknown.
+* D may be replaced by U, which is a //useless// endeavor, something which is very little or no value. This means that asking "is it useful" is a stupid question, because ideas don't come fully formed. We must maximize knowledge.
+* D may be replaced by I, meaning that it is impossible. If it doesn't go against the known laws of physics, pursue it. Also the impossibility may be evaluated for a specific scenario only, and may still be possible:we are capable of enginnering and invention.
 
 === Conclusion ===
-Be curious and innovate!
+* Be curious and innovate!
+* Be happy!
+* Ignore the negative people.
