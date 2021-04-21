@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2021-04-20T00:06:15+05:30
 
-====== 33. Independence ======
+====== 33. False guilt ======
 Created Tuesday 20 April 2021
 
 TODO: I think both rationally and emotionally. But in some cases, thinking about other people makes me feel **guilty**. i.e. will it be bad for people. So how should I organize facts and my love for people such that:
@@ -28,7 +28,7 @@ Pros:
 
 Cons:
 Nothing that I can think of.
-Well initialilly I had the problem of evil, but that has been solved by evidence.
+Well initially I had the problem of evil, but is resolved on observation(data).
 
 === In the real world ===
 So I fit many historical events to get a good view:
@@ -40,6 +40,8 @@ So I fit many historical events to get a good view:
 Thinks like science, literature, fashion, connection are impossible if we are chained(dependent) on other people.
 
 === Conclusion ===
-To be independent. Consider that the world is made of two things only:
+To be independent and innovate without fear, Assume that the world is made of two things only:
 1. Knowledge
 2. Me - I want to be happy, without any compromise.
+
+Note: Hypocrisy is not allowed.
