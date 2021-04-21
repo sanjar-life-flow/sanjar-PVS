@@ -62,6 +62,7 @@ Note: These reasons are universal, so they may potentially be a thing.
 * I would be a great waste if I couldn't be happy in my life.
 
 === Conclusion ===
+* CS is a super-power, it has changed the world. And we've just started.
 * I will not worry that CS will make our lives miserable.
 * I shall cherish the fact that CS made our lives easier.
 * I shall follow my heart and ambition, and use my perception filter.
