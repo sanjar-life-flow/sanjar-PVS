@@ -61,6 +61,7 @@ A value is removed if:
 * It is unreasonable, illogical or unscientific. e.g. Believing in fate, instead of just doing what you want.
 
 === How to add/remove values ===
+In short, gather authentic data and reflect.
 * Read books
 * Watch movies, listen to songs
 * Meet people, learn about other cultures/ideas
