@@ -49,8 +49,8 @@ Hence, I tried to think about the whole "belief" and "scientific validity again"
 === Problem - the preaching ===
 Problem statement - the preachers statements.
 1. Quran is not logically contradictory.
-2. It doesn't have scientific contradictions, even with modern times.
-3. Therefore, the best "explanation/choice" is to accept that it is correct.
+2. No ayats are incompatible with science, even with modern times.
+3. Therefore, the best and only "explanation/choice" is to accept it as being correct.
 
 Solution:
 	"Think" about the statements, and accept them.
@@ -58,18 +58,18 @@ Solution:
 	
 	1 accepted. OK.
 	2 accepted. OK.
-	3 accepted. So, what to do "now", in our life. Should we use the Quran for making decisions in life(or even in society, which is a controversial idea). There's no need to ignore science/logic. It's just that everything needs to be "checked" with the Quran.
+	3 accepted. So, what to do "now", in our life. Should we use the Quran for making decisions in life(or even in society, which is a controversial idea). There's no need to ignore science/logic. according to the Quran. It's just that everything needs to be "checked" with the Quran.
 	
 	This makes us dependent, mentally. And I find this idea of "checking" with authority tiring and cumbersome.
 	
-	So, can't we ignore the Quran
+	So, can't we ignore the Quran?
 	s "very high likelyhood" of being true and make our own decisions, based on science alone. A simple solution would be to snap out of the question and be independent, but I wanted to prove a stronger clain: being independent was the only option, logically.
 	
 	/*I took a small break.*/
 	
-	We have lost so many people to extremism, which is not only very sad but demotivating. i.e. is it necessary for people to have die to question the preachers' rhetoric. Couldn't we have done it when the preaching started, and averted these deaths.
+	We have lost so many people to extremism, which is not only very sad but demotivating. i.e. was/is it necessary for people to have to die to question the preachers' rhetoric. Couldn't we have done it when the preaching started, and averted these deaths.
 	
-	Generally, this question has no definite answer. But it was very prolematic to accept the deaths as a "learning opportunity". It seemed very pessimistic.
+	Generally, this question has no definite answer. But it is very prolematic to accept the deaths as a "learning opportunity". It seemed very pessimistic.
 	
 	I was stuck, but "there had to be a way", I cannot accept murder of people...
 	
@@ -86,32 +86,39 @@ Solution:
 	* No scientific-contradictions. Accepted. OK.
 	* Accept X as running nicely - ? Wait, what, we are stuck again!!
 	
-	The VM crashes/freezes. We cannot let X running, because we'll never know about its nature(good or harmful), even if new "scientifically uncontradictory" contradictory ayats shown to be true.
+	The VM crashes/freezes, maybe a [[https://www.healthline.com/health/mental-health/nervous-breakdown|Nervous Breakdown]], Overstimulation. We cannot let X running, because we'll never know about its nature(good or harmful), even if new "scientifically uncontradictory" contradictory ayats shown to be true.
 	
-	Running it on another VM, or a nested VM gives the same result. We get stuck. So there's only one option to escape the crash: believe X, and shut the VM. System resources are relieved, because X does eat up the host's resources, memory, energy etc.
+	Running it on another VM, or a nested VM gives the same result(madness this is). We get stuck. So there's only one option to escape the crash: believe(run on host) X, and shut the VM. System resources are relieved, because X does eat up the host's resources, memory, energy etc.
 	
 	But wait: we had to evaluate X, and accepting seems to be the only option.
 	This means that X can never be honestly evaluated.
 	
-	Simply said: the preaching is unfalsifiable. I didn't think of this directly because the hype by non-religious people make is sounds like a baseless allegation against religion.
-
-	* If someone accepts X after running it for a long time, and even if some scientific contradiction does arise. They cannot challenge X, because science is dynamic. So one has "100% confidence in X" all the time, irrespective of past/future events. And they can label all contradictions as falsehoods/to_be_established.
+	Simply said: the preaching is unfalsifiable. I didn't think of this directly because the hype by non-religious people sounds like a baseless allegation against religion.
 	
-	So every time we get such a virus program(X), we should be ready to terminate it, if it gets stuck. One cannot trust it. And this holds irrespective of whether one believes X or not.
+	But, what if we do believe X?
+	* If someone accepts X after running it for a long time, and even if some scientific contradiction does arise. They cannot challenge X, because science is dynamic. So one has "100% confidence in X" all the time, irrespective of past/future events. And they can label all contradictions as falsehoods/to_be_established. **They have lost control.**
+	
+	But X can still be used for imagination/understanding - art, fiction, songs. We love em😃️. But they are clearly labelled as such. Religion is falsely labeled as reality.
+	
+	So every time one gets such a unlabeled virus program(X), they should be ready to terminate it, if it gets stuck. The source of X must label the program as unfalsifiable/falsifiable. One cannot trust it. And this holds irrespective of whether one believes X or not.
 	
 	But the extremists are hell-bent on running X, even for other people. This causes all the trouble.
 	
 	/* is it really unfalsifiable - only Islam*/
 	/* what about other miracle - claimed or will come*/
 	
+
 === Solutions - extremists intellectually involved just need to relax ===
-They don't need to reeducated in logic or thinking.
+They don't need to re-educated in logic or thinking.
 If the extremist were intellectual and truthful, they will have trained.
-Because all the mythology stuff was good for the brain. They calculated/imagines stuff.
-They should be ready to work.
+All the mythology stuff was good for the brain. They calculated/imagined stuff, learning to think in the process.
+They should be ready to work in any setting.
 They only need to realize that it was fictional.
 
-If they were bigots, well I don't know of any solutions then. Maybe being with people might help.
-Why I'm proving this - to lessen their heartache, and to make them confident of their faculties, to show them it was false, they were right. They were hiding behind irrational rules. But rules are rules, and it makes the brain grow.
+If they were bigots, well I don't know of any solutions then. Maybe being around people might help, increasing empathy.
+Why I'm proving this - to lessen their heartache, and to make them confident of their faculties, to show them it was false, they were right. They were running irrational rules. But rules are rules, and it they make the brain grow.
 [[./pasted_image.png|Browser History]]
 [[./pasted_image001.png|Browser history(continued)]]
+
+Note:
+* I hadn't read The Selfish Gene or God Delusion by Richard Dawkins, so 'virus' is something I have come to independently, in a computer based system. See [[./pasted_image002.png]]
