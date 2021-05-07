@@ -12,7 +12,6 @@ Created Friday 23 April 2021
 
 === What are values ===
 Definition: **Values** are parameters used to judge a situation and direct my action.
-
 * Memory Aid: Think of them as a greedy params of the current situation(in life). Our experience will solely determine if they are indeed correct values.
 
 === About values ===
@@ -32,7 +31,7 @@ Note:
 
 === Why have values? ===
 * They reflect my behavior, action and choices. **So they define who I am, and what I do.**
-* They makes me happy.
+* They make me happy.
 * The values are my definition of "success" and "meaning" in life.
 * They are the closest thing I can find, to morality.
 
