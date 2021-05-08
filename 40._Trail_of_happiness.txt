@@ -7,6 +7,9 @@ Created Sunday 25 April 2021
 
 FIXME: Add this properly to QnA. This not only solves many issues, but also talks about convergence of good values.
 
+=== Read ===
+This seems like philosophy of mathematics, see wiki.
+
 === Trail ===
 * I started with solving the problem of surnames.
 * Then I started calculating number of names, using american-dict in UNIX.
