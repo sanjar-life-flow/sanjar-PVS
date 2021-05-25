@@ -8,7 +8,7 @@ Created Tuesday 20 April 2021
 FIXME: fix this page, add boundaries. Take a lot at https://markmanson.net/boundaries#bounday-issues. Don't copy.
 Not having boundaris is simple need and sad.
 TODO: I think both rationally and emotionally. But in some cases, thinking about other people makes me feel **guilty**. i.e. will it be bad for people. So how should I organize facts and my love for people such that:
-I am happy
+1. I am happy
 2. I think quickly
 3. I think reliably
 
@@ -36,7 +36,7 @@ Well initially I had the problem of evil, but is resolved on observation(data).
 So I fit many historical events to get a good view:
 1. Science, innovation("let's search for a better way") and being curious.
 2. Groupism/Populism - innovation that is passed by the group as "OK".
-3. Authoritarian regimes - innovation is arbitrary
+3. Authoritarian regimes - innovation is arbitrary.
 4. Modern democracies - you're free.
 
 Thinks like science, literature, fashion, connection are impossible if we are chained(dependent) on other people.
