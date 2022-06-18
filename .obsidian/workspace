@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "3604007dd048011c",
+    "type": "split",
+    "children": [
+      {
+        "id": "008d300b79b79f24",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1._Equality.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd3d0ec9b5bba565",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6df0bc1aa18c133",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf4c35cd15e7f690",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b76ce8eec6ea5437",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"The Running problem of connection\"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 797
+  },
+  "right": {
+    "id": "0b07c94123352d35",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9600043603fc1f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a73ead88a294e9c5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1._Equality.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "008d300b79b79f24",
+  "lastOpenFiles": [
+    "1._Equality.md",
+    "Journal.md",
+    "Private_Section.md",
+    "Home.md",
+    "assets/pasted_image001.png",
+    "22._Morality_and_Being_good.md",
+    "assets/LockhartsLament.pdf",
+    "19._Thinking_and_practicality.md",
+    "19._Thinking_and_practicality/Intelligence.md",
+    "assets/Intelligence is sexy but impractical _ by Thomas Vato _ Medium-compressed.pdf"
+  ]
+}
