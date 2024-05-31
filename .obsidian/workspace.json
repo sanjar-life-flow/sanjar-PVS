@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "86b36098c87d9192",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fccbbb9aeb8e400",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ea6c5d16b5cea98",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c8733c4419fcc9a3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0ac72afc9b526af3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4433febe3a3d518",
+    "type": "split",
+    "children": [
+      {
+        "id": "422ecfe2ee88446e",
+        "type": "tabs",
+        "dimension": 81.02466793168881,
+        "children": [
+          {
+            "id": "e4d522289c807a40",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b8f80a65b4d8acdf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "40dd3c0805fff684",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "8e61662f07f2c4bd",
+        "type": "tabs",
+        "dimension": 18.975332068311197,
+        "children": [
+          {
+            "id": "650fb4f159f55fb0",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1bf6ef437ecf51ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "98d81dfc23f23fdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a04c93cb951ba656",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08894c85cd292333",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "9b123d141bee6ffc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "2a4faffe0316b062",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {}
+            }
+          },
+          {
+            "id": "140dfce60d1ffb32",
+            "type": "leaf",
+            "state": {
+              "type": "review-notes",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-review-notes-plugin:View Recent Notes": false
+    }
+  },
+  "active": "650fb4f159f55fb0",
+  "lastOpenFiles": [
+    "zignore/a.txt",
+    "tooling/obsidian-templates/templater/w2h.md",
+    "tooling/obsidian-templates/templater/title_and_date.md",
+    "tooling/obsidian-templates/templater/timestamp.md",
+    "tooling/obsidian-templates/templater",
+    "tooling/obsidian-templates/README.md",
+    "tooling/obsidian-templates",
+    "tooling/README.md",
+    "zignore",
+    "tooling",
+    "home/4_resource_itineraries/Scaler-Paid/1-DSA/index.md",
+    "home/4_resource_itineraries/Scaler-Paid/Guest-Talks/1-Guest-Talk-1.md",
+    "home/4_resource_itineraries/Scaler-Paid/1-DSA/1-Time-Complexity.md",
+    "home/4_resource_itineraries/Scaler-Paid/1-DSA/2-Array-techniques.md",
+    "home/4_resource_itineraries/Scaler-Paid/Course-timeline.md",
+    "home/4_resource_itineraries/1_CN_Intro_to_Cpp/8._Searching_and_Sorting/Assignments/0_index.md",
+    "assets/2-Array-techniques-image-4-ab28a569.png",
+    "assets/2-Array-techniques-image-3-ab28a569.png",
+    "assets/tmp1716571453915_2-Array-techniques-image-3-ab28a569.png",
+    "assets/2-Array-techniques-image-2-ab28a569.png",
+    "assets/2-Array-techniques-image-1-ab28a569.png",
+    "home/4_resource_itineraries/Scaler-Paid/Guest-Talks",
+    "assets/scaler-primer-content.json",
+    "assets/scaler-archived-classes.json",
+    "assets/scaler-community-classes.json",
+    "assets/scaler-master-classes.json",
+    "Untitled.md",
+    "assets/Site-image-2-bb03e9cb.png",
+    "assets/Site-image-1-bb03e9cb.png",
+    "assets/1-Time-Complexity-image-6-ab28a569.png",
+    "assets/1-Time-Complexity-image-5-ab28a569.png",
+    "assets/1-Time-Complexity-image-4-ab28a569.png",
+    "home/4_resource_itineraries/Scaler-Paid/0-Onboarding/3-Problem-Solving-Mindset.md",
+    "home/4_resource_itineraries/Scaler-Paid/1-DSA",
+    "vault/STL/index.md",
+    "vault/STL/2-Algorithms.md",
+    "vault/STL/1-Containers.md",
+    "vault/Algorithms/3-Sorting.md",
+    "vault/Algorithms/4-Divide-n-Conquer.md",
+    "vault/Algorithms/2-Merging.md",
+    "vault/Algorithms/1-Searching.md",
+    "home/4_resource_itineraries/3_CN_Competitive_programming/7._Greedy_Method/1._Introduction_to_Greedy_technique/0_index.md",
+    "vault/Data-Structures/1-String.md",
+    "home/4_resource_itineraries/1_CN_Intro_to_Cpp/8._Searching_and_Sorting/6._Selection_Sort.md",
+    "home/4_resource_itineraries/1_CN_Intro_to_Cpp/8._Searching_and_Sorting/5._Insertion_Sort.md",
+    "home/4_resource_itineraries/1_CN_Intro_to_Cpp/8._Searching_and_Sorting/4._Bubble_Sort.md",
+    "tasks canvas.canvas"
+  ]
+}

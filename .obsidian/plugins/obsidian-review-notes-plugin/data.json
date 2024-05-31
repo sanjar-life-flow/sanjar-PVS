@@ -1,0 +1,28 @@
+{
+  "files": [
+    {
+      "path": "tooling/README.md",
+      "filename": "README"
+    },
+    {
+      "path": "tooling/obsidian-templates/README.md",
+      "filename": "README"
+    },
+    {
+      "path": "tooling/obsidian-templates/templater/timestamp.md",
+      "filename": "timestamp"
+    },
+    {
+      "path": "tooling/obsidian-templates/templater/title_and_date.md",
+      "filename": "title_and_date"
+    },
+    {
+      "path": "tooling/obsidian-templates/templater/w2h.md",
+      "filename": "w2h"
+    },
+    {
+      "path": "zignore/a.txt",
+      "filename": "a"
+    }
+  ]
+}
